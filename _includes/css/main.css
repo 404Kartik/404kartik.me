@@ -575,7 +575,7 @@ margin:0 auto;
 
 /* SKILL 1 */
 .skill1{
-    width: 95%;
+    width: 85%;
         
 }
 .skill-bar span{
@@ -597,7 +597,7 @@ margin:0 auto;
 }
 /* SKILL 2 */
 .skill2{
-    width: 85%;
+    width: 65%;
 }
 
 .skill2 .skill-count2 {
@@ -605,7 +605,7 @@ margin:0 auto;
 }
 /* SKILL 3 */
 .skill3{
-    width: 75%;
+    width: 70%;
 }
 .skill3 .skill-count3 {
     right: 0;
@@ -622,7 +622,7 @@ margin:0 auto;
 
 /* SKILL 5 */
 .skill5{
-    width: 80%;
+    width: 75%;
 }
 
 .skill5 .skill-count5 {
@@ -631,9 +631,29 @@ margin:0 auto;
 
 /* SKILL 6 */
 .skill6{
-    width: 90%
+    width: 80%;
 }
-
+.skill8{
+    width: 90%;
+}
+.skill9{
+    width: 85%;
+}
+.skill10{
+    width: 85%;
+}
+.skill11{
+    width: 80%;
+}
+.skill12{
+    width: 70%;
+}
+.skill13{
+    width: 80%;
+}
+.skill14{
+    width: 90%;
+}
 .skill6 .skill-count6 {
     right: 0;
 }
